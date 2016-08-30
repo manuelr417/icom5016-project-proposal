@@ -22,4 +22,32 @@ The project will be developed by teams of three (3) students. The project will h
 
 
 ### Software Guidelines
-Your project must be sunbmitted thru a GitHub repository. 
+Your project must be submitted thru a GitHub repository. The URL of the repository will be requested by the professor via email. 
+
+You can use the following tools for the client app:
+
+1. Angular JS
+2. React JS
+3. HTML5 and CSS3 (e.g., Bootstrap)
+4. Android
+5. iOS
+
+You can use the following tools for the server app:
+
+1. Java Play
+2. Python Flask
+3. Node.JS
+
+All projects must issue SQL queries to the DB. The use of Object-Relational Mapper (ORM) libraries is prohibited. Projects that use ORM will get a score of 0. 
+
+### Project Ideas
+The following is a list of potential project ideas that you might pursue:
+
+1. Social networks
+2. Tourist guides
+3. Apps for inventory management
+4. Apps for sales (e.g., cars, crafts, clothing)
+5. Photo/video album apps
+6. Medical record apps
+7. Transit/accident management apps
+8. 
