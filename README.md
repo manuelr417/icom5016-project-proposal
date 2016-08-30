@@ -58,4 +58,7 @@ All apps must comply with the following minimum requirements:
 2. Must support user-signup and account confirmation via email.
 3. Must support payment for services (e.g., collect credit card).
 4. Must support two (2) types of user: a) regular user, or b) administrator user.
+5. 
+
+## Deadline: 11:59 PM, September 8, 2016 
 
