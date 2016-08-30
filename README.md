@@ -50,4 +50,11 @@ The following is a list of potential project ideas that you might pursue:
 5. Photo/video album apps
 6. Medical record apps
 7. Transit/accident management apps
-8. 
+
+### Minimum requirements
+All apps must comply with the following minimum requirements:
+
+1. Must keep track of at least 10 tables.
+2. Must support user-signup and account confirmation via email.
+3. Must support payment for services (e.g., collect credit card).
+
