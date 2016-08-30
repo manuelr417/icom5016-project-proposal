@@ -18,7 +18,7 @@ The project will be developed by teams of three (3) students. The project will h
 1. Phase I - Project Proposal - you will explain, in 2 pages, the idea of the project.
 2. Phase II - App Design and ER model - implement the UI and provide the ER model for the system.
 3. Phase III - Relational Design and Support for Reads - implement the DB tables and the web services needed to read data. 
-4. Phase III - Support for Updates - finish the DB tables and implement the insert/update/delete web services.
+4. Phase IV - Support for Updates - finish the DB tables and implement the insert/update/delete web services.
 
 
 ### Software Guidelines
